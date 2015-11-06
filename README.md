@@ -1,2 +1,2 @@
-# Subscenter.org.bundle
-Subscenter.org plugin for Plex Media Server
+# Subscenter.bundle
+Subscenter plugin for Plex Media Server
